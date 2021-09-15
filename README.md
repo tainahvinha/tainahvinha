@@ -1,6 +1,6 @@
 <h1>Olá! 👋</h1> 
 
-😀 Meu nome é <b>Tainah Vinha</b> e sou desenvolvedora front-end.
+😀 Meu nome é <b>Tainah Vinha</b> e sou desenvolvedora java jr full stack.
 
 📚 Formada no Bootcamp da <a href="https://brazil.generation.org/" target="_blank"> Generation Brasil</a> em julho/2021.
 
