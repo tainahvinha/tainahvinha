@@ -2,7 +2,7 @@
 
 😀 Meu nome é <b>Tainah Vinha</b> e sou desenvolvedora java jr full stack.
 
-📚 Formada no Bootcamp da <a href="https://brazil.generation.org/" target="_blank"> Generation Brasil</a> em julho/2021.
+📚 Formada no Bootcamp de pessoa desenvolvedora web java júnior da <a href="https://brazil.generation.org/" target="_blank"> Generation Brasil</a> em julho/2021.
 
 <h2>Contatos</h2>
   
