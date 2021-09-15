@@ -2,7 +2,7 @@
 
 😀 Meu nome é <b>Tainah Vinha</b> e sou desenvolvedora front-end.
 
-📚 Formada no Bootcamp da <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a> em julho/2021.
+📚 Formada no Bootcamp da <a href="https://brazil.generation.org/" target="_blank"> Generation Brasil</a> em julho/2021.
 
 <h2>Contatos</h2>
   
